@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | sort | uniq -uc
+cat list | sort | uniq -u #I'm unsure what is meant by complex output
